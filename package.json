@@ -1,0 +1,20 @@
+{
+  "name": "CAP-on-AWS-Project2",
+  "version": "1.0.0",
+  "description": "ACloudGuruji.com - CAP on AWS Project2 (CAP in Local Computer with VS Code and PostgreSQL DB)",
+  "repository": "<Add your repository here>",
+  "license": "UNLICENSED",
+  "private": true,
+  "dependencies": {
+    "@cap-js/postgres": "^1.4.1",
+    "@sap/cds": "^7"
+  },
+  "scripts": {
+    "start": "cds-serve"
+  },
+  "cds": {
+    "requires": {
+
+    }
+  }
+}
